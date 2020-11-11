@@ -1,0 +1,9 @@
+site_name: michjnich
+site_author: Michael J. Nicholson
+copyright: (C) 2020, Michael J. Nicholson
+nav: 
+    - Home: index.md
+    - About: about.md
+theme: 
+    name: bootstrap4
+    suppress_nextprev: true
