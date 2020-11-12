@@ -1,9 +1,37 @@
 site_name: michjnich
 site_author: Michael J. Nicholson
-copyright: (C) 2020, Michael J. Nicholson
+site_url: https://michjnich.com
+repo_url: https://github.com/michjnich/michjnich.github.io
+repo_name: 'michjnich/michjnich.gihub.io'
+
+copyright: "&copy; 2020, Michael J. Nicholson"
 nav: 
     - Home: index.md
     - About: about.md
+
+ # https://github.com/squidfunk/mkdocs-material   
 theme: 
-    name: bootstrap4
-    suppress_nextprev: true
+    name: material
+    icon:
+        repo: fontawesome/brands/github
+
+extra:
+    social:
+        - icon: fontawesome/brands/linkedin
+          link: https://linkedin.com/in/michjnich
+          name: michjnich | LinkedIn
+        - icon: fontawesome/brands/twitter
+          link: https://twitter.com/michjnich
+          name: michjnich | Twitter
+        - icon: fontawesome/brands/instagram
+          link: https://instagram.com/michjnich
+          name: michjnich | Instagram
+        - icon: fontawesome/brands/500px
+          link: https://500px.com/michjnich
+          name: michjnich | 500px
+        - icon: fontawesome/brands/github
+          link: https://github.com/michjnich
+          name: michjnich | GitHub
+        - icon: fontawesome/brands/gitlab
+          link: https://gitlab.com/michjnich
+          name: michjnich | GitLab
