@@ -24,6 +24,7 @@ Since 1997 I have worked primarily in the Telco domain (B/OSS). Outside of that 
 * Docker
 * Cloud
 * DevOps
+* Domain Driven Design
 ###### Areas I would like to get some experience in
 * AI / Machine Learning
 ###### Things I've played with recently that seem interesting
