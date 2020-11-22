@@ -56,6 +56,7 @@ Online publications:
 
 * [Twist](http://electricspec.com/Volume13/Issue3/nicholson.html) - Electric Spec, Vol. 13, Issue 3
 * [Side Effects](https://www.thenosleeppodcast.com/episodes/s12/12x24) - NoSleep Podcast, Season 12, Episode 24 
+* The Darkness Inside - Pending publication, 2021 : British Fantasy Society anthology - "Emerging Horizons"
 
 #### Photography
 I enjoy taking photographs, though am strictly an amateur in this domain. A few of these I put up at [500px](https://www.500px.com/michjnich)
