@@ -49,7 +49,7 @@ I have written numerous short stories, mostly speculative fiction with a leaning
 ##### Portfolio
 Author pages:
 
-* Amazon [US](www.amazon.com/Michael-J-Nicholson/e/B01C7K1928) [UK](https://www.amazon.co.uk/Michael-J-Nicholson/e/B01C7K1928)
+* Amazon [[US](https://www.amazon.com/Michael-J-Nicholson/e/B01C7K1928)] [[UK](https://www.amazon.co.uk/Michael-J-Nicholson/e/B01C7K1928)]
 * [Goodreads](https://www.goodreads.com/author/show/15011232.Michael_J_Nicholson)
 
 Online publications:
