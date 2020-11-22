@@ -13,11 +13,10 @@ At some point I have worked with most IT roles, including, but not limited to:
 * Solution & System Architect
 * Team Lead
 * Manager
-
 #### Domains
 Since 1997 I have worked primarily in the Telco domain (B/OSS). Outside of that I also have experience with Finance and Pensions. Almost all this work has been on Enterprise level systems. 
 #### Technologies
-###### Desired focus
+##### Desired focus
 * Python
 * Django (or other framework)
 * Linux
@@ -25,14 +24,19 @@ Since 1997 I have worked primarily in the Telco domain (B/OSS). Outside of that 
 * Cloud
 * DevOps
 * Domain Driven Design
-###### Areas I would like to get some experience in
+##### Areas I would like to get some experience in
 * AI / Machine Learning
-###### Things I've played with recently that seem interesting
+##### Things I've played with recently that seem interesting
 * Elm
 * Functional Programming
 * Flutter
 * Dart
-###### What I've worked on in the past
+##### Languages I'd like to look into when I have the time
+* Go
+* Rust
+* Haskell
+* WebAssembly
+##### What I've worked on in the past
 * Oracle (DB, SQL, PL/SQL)
 * ISAM-based databases
 * Various flavours of *nix
@@ -42,7 +46,7 @@ Since 1997 I have worked primarily in the Telco domain (B/OSS). Outside of that 
 ## Creative
 #### Writing
 I have written numerous short stories, mostly speculative fiction with a leaning towards horror. Some of these have been published, with a couple more in the pipeline. 
-###### Portfolio
+##### Portfolio
 Author pages:
 
 * Amazon [US](www.amazon.com/Michael-J-Nicholson/e/B01C7K1928) [UK](https://www.amazon.co.uk/Michael-J-Nicholson/e/B01C7K1928)
