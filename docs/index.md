@@ -30,6 +30,8 @@ Since 1997 I have worked primarily in the Telco domain (B/OSS). Outside of that 
 ###### Things I've played with recently that seem interesting
 * Elm
 * Functional Programming
+* Flutter
+* Dart
 ###### What I've worked on in the past
 * Oracle (DB, SQL, PL/SQL)
 * ISAM-based databases
