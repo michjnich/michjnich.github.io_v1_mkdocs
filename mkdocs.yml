@@ -6,8 +6,8 @@ repo_name: 'michjnich/michjnich.gihub.io'
 
 copyright: "&copy; 2020, Michael J. Nicholson"
 nav: 
-    - Home: index.md
-    - About: about.md
+    - About Me: index.md
+    - CV: CV.pdf
 
  # https://github.com/squidfunk/mkdocs-material   
 theme: 
