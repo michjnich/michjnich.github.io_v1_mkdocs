@@ -13,6 +13,7 @@ nav:
  # https://github.com/squidfunk/mkdocs-material   
 theme: 
     name: material
+    favicon: img/favicon.ico
     icon:
         repo: fontawesome/brands/github
 
