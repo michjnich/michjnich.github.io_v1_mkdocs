@@ -3,6 +3,7 @@ site_author: Michael J. Nicholson
 site_url: https://michjnich.com
 repo_url: https://github.com/michjnich/michjnich.github.io
 repo_name: 'michjnich/michjnich.gihub.io'
+edit_url: edit/main/docs
 
 copyright: "&copy; 2020, Michael J. Nicholson"
 nav: 
