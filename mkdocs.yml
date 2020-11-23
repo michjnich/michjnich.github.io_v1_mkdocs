@@ -3,11 +3,12 @@ site_author: Michael J. Nicholson
 site_url: https://michjnich.com
 repo_url: https://github.com/michjnich/michjnich.github.io
 repo_name: 'michjnich/michjnich.gihub.io'
-# edit_url: edit/main/docs
+edit_url: edit/main/docs
 
 copyright: "&copy; 2020, Michael J. Nicholson"
 nav: 
     - About Me: index.md
+    - Blog: blog.md
     - CV: CV.pdf
 
  # https://github.com/squidfunk/mkdocs-material   
@@ -18,6 +19,20 @@ theme:
     logo: img/logo.svg
     icon:
         repo: fontawesome/brands/github
+
+markdown_extensions:
+  - attr_list
+  - admonition
+  - footnotes
+  - pymdownx.details
+  - pymdownx.snippets
+  - pymdownx.inlinehilite
+  - pymdownx.highlight
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist
+  - toc:
+      permalink: true
 
 extra:
     social:
