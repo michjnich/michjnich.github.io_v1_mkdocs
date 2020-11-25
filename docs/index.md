@@ -34,7 +34,7 @@ Since 1997 I have worked primarily in the Telco domain (B/OSS). Outside of that 
 ##### Languages I'd like to look into when I have the time
 * Go
 * Rust
-* Haskell
+* Haskell (just discovered [IHP](https://ihp.digitallyinduced.com), so may try to learn it this way)
 * WebAssembly
 ##### What I've worked on in the past
 * Oracle (DB, SQL, PL/SQL)
@@ -56,7 +56,10 @@ Online publications:
 
 * [Twist](http://electricspec.com/Volume13/Issue3/nicholson.html) - Electric Spec, Vol. 13, Issue 3
 * [Side Effects](https://www.thenosleeppodcast.com/episodes/s12/12x24) - NoSleep Podcast, Season 12, Episode 24 
-* The Darkness Inside - Pending publication, 2021 : British Fantasy Society anthology - "Emerging Horizons"
+
+Upcoming publications:
+
+* The Darkness Inside - Q1 2021, British Fantasy Society anthology - "Emerging Horizons"
 
 #### Photography
 I enjoy taking photographs, though am strictly an amateur in this domain. A few of these I put up at [500px](https://www.500px.com/michjnich)
@@ -64,3 +67,11 @@ I enjoy taking photographs, though am strictly an amateur in this domain. A few 
 Having been told in school that I should drop art as I had no talent in that area, I learned to sketch and paint while living in Melbourne, Australia. I'm still not very good, but I enjoy it, and I now know I'm not as bad as my art teacher would have had me believe.
 
 At some point, I may include some photos of some of my paintings.
+
+## Other Sidelines
+#### Translation
+I provide translation services from Swedish to (UK) English, or proofreading services to validate against the original Swedish if you already have a translation. 
+
+Contact me for rates.
+#### Voice artist
+If you need an audio recording in reasonably neutral British accent (though not the Queen's English!), get in touch. To date, I have mostly provided recordings for online courses for education companies. 
