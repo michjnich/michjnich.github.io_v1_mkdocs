@@ -54,3 +54,12 @@ extra:
         - icon: fontawesome/brands/gitlab
           link: https://gitlab.com/michjnich
           name: michjnich | GitLab
+        - icon: fontawesome/brands/stack-overflow
+          link: https://stackoverflow.com/michjnich
+          name: michjnich | StackOverflow
+        - icon: fontawesome/brands/amazon
+          link: https://www.amazon.com/Michael-J-Nicholson/e/B01C7K1928
+          name: michjnich | Amazon US
+        - icon: fontawesome/brands/amazon
+          link: https://www.amazon.co.uk/Michael-J-Nicholson/e/B01C7K1928
+          name: michjnich | Amazon UK
