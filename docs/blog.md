@@ -1,6 +1,7 @@
 # Blog Posts
 
 ???+ "Technical"
+    * [x] [Fibbonaci 2 ways](https://www.stddev.tech/fibonnaci-3-ways/)
     * [x] [5 steps to Python, VS Code & WSL2](https://www.stddev.tech/5-steps-to-python-vs-code-wsl2/)
     * [x] [Python numerics](https://www.stddev.tech/python-numerics/)
     * [x] [Numerics](https://www.stddev.tech/cs1-numerics/)
