@@ -1,9 +1,12 @@
 # Blog Posts
 
-???+ "Technical"
+???+ "Technical" 
     * [x] [What to do with your legacy monolith](https://www.linkedin.com/pulse/what-do-your-legacy-monolith-michael-nicholson)
-  
+
 ???+ "[StdDev.tech](https://www.stddev.tech)"
+    * [x] [Django images & thumbnails](https://www.stddev.tech/django-images-thumbnails/)
+    * [x] [Git settings for colour-blindness](https://www.stddev.tech/git-settings-for-colour-blindness/)
+    * [x] [Django: Exclude specific auth.urls routes](https://www.stddev.tech/exclude-auth/)
     * [x] [Fibbonaci 2 ways](https://www.stddev.tech/fibonnaci-3-ways/)
     * [x] [5 steps to Python, VS Code & WSL2](https://www.stddev.tech/5-steps-to-python-vs-code-wsl2/)
     * [x] [Python numerics](https://www.stddev.tech/python-numerics/)
