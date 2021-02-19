@@ -4,6 +4,9 @@
     * [x] [What to do with your legacy monolith](https://www.linkedin.com/pulse/what-do-your-legacy-monolith-michael-nicholson)
 
 ???+ "[StdDev.tech](https://www.stddev.tech)"
+    * [x] [Django tests with GitLab CI & pytest](https://www.stddev.tech/django-tests-with-gitlab-ci-postgres/)
+    * [x] [GitLab coverage badge with pytest](https://www.stddev.tech/gitlab-coverage-badge-with-pytest/)
+    * [x] [Python: try...except...else...finally](https://www.stddev.tech/try-except-else-finally/)
     * [x] [Django images & thumbnails](https://www.stddev.tech/django-images-thumbnails/)
     * [x] [Git settings for colour-blindness](https://www.stddev.tech/git-settings-for-colour-blindness/)
     * [x] [Django: Exclude specific auth.urls routes](https://www.stddev.tech/exclude-auth/)
