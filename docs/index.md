@@ -31,11 +31,13 @@ Since 1997 I have worked primarily in the Telco domain (B/OSS). Outside of that 
 * Functional Programming
 * Flutter
 * Dart
-##### Languages I'd like to look into when I have the time
+##### Languages/frameworks I'd like to look into when I have the time
 * Go
 * Rust
 * Haskell (just discovered [IHP](https://ihp.digitallyinduced.com), so may try to learn it this way)
 * WebAssembly
+* Vue
+* Svelte
 ##### What I've worked on in the past
 * Oracle (DB, SQL, PL/SQL)
 * ISAM-based databases
