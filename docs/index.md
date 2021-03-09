@@ -27,6 +27,7 @@ Since 1997 I have worked primarily in the Telco domain (B/OSS). Outside of that 
 ##### Areas I would like to get some experience in
 * AI / Machine Learning
 ##### Things I've played with recently that seem interesting
+* Vue3 (["Calculators" test project](https://michjnich-calcs.netlify.app), [source]](https://gitlab.com/michjnich/calcs))
 * Elm
 * Functional Programming
 * Flutter
@@ -36,7 +37,6 @@ Since 1997 I have worked primarily in the Telco domain (B/OSS). Outside of that 
 * Rust
 * Haskell (just discovered [IHP](https://ihp.digitallyinduced.com), so may try to learn it this way)
 * WebAssembly
-* Vue
 * Svelte
 ##### What I've worked on in the past
 * Oracle (DB, SQL, PL/SQL)
