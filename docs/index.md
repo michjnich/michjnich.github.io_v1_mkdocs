@@ -16,6 +16,9 @@ At some point I have worked with most IT roles, including, but not limited to:
 #### Domains
 Since 1997 I have worked primarily in the Telco domain (B/OSS). Outside of that I also have experience with Finance and Pensions. Almost all this work has been on Enterprise level systems. 
 #### Technologies
+##### Hobby / Learning projects
+* [Vue 3 : "Calculators" learning project](https://michjnich-calcs.netlify.app), [source](https://gitlab.com/michjnich/calcs)
+* [Django: "MissionAbort" hobby project (under construction)](https://missionabort-staging.herokuapp.com)
 ##### Desired focus
 * Python
 * Django (or other framework)
@@ -27,7 +30,7 @@ Since 1997 I have worked primarily in the Telco domain (B/OSS). Outside of that 
 ##### Areas I would like to get some experience in
 * AI / Machine Learning
 ##### Things I've played with recently that seem interesting
-* Vue3 (["Calculators" learning project](https://michjnich-calcs.netlify.app), [source](https://gitlab.com/michjnich/calcs))
+* Vue3
 * Elm
 * Functional Programming
 * Flutter
