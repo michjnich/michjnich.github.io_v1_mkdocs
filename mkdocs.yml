@@ -5,20 +5,20 @@ repo_url: https://github.com/michjnich/michjnich.github.io
 repo_name: 'michjnich/michjnich.gihub.io'
 edit_uri: edit/main/docs
 
-copyright: "&copy; 2020, Michael J. Nicholson"
-nav: 
-    - About Me: index.md
-    - Blog: blog.md
-    - CV: CV.pdf
+copyright: '&copy; 2020, Michael J. Nicholson'
+nav:
+  - About Me: index.md
+  - Blog: blog.md
+  - CV: MichaelNicholson-CV.pdf
 
- # https://github.com/squidfunk/mkdocs-material   
-theme: 
-    name: material
-    custom_dir: docs/custom_theme/
-    favicon: img/favicon.ico
-    logo: img/logo.svg
-    icon:
-        repo: fontawesome/brands/github
+  # https://github.com/squidfunk/mkdocs-material
+theme:
+  name: material
+  custom_dir: docs/custom_theme/
+  favicon: img/favicon.ico
+  logo: img/logo.svg
+  icon:
+    repo: fontawesome/brands/github
 
 markdown_extensions:
   - attr_list
@@ -35,31 +35,31 @@ markdown_extensions:
       permalink: true
 
 extra:
-    social:
-        - icon: fontawesome/brands/linkedin
-          link: https://linkedin.com/in/michjnich
-          name: michjnich | LinkedIn
-        - icon: fontawesome/brands/twitter
-          link: https://twitter.com/michjnich
-          name: michjnich | Twitter
-        - icon: fontawesome/brands/instagram
-          link: https://instagram.com/michjnich
-          name: michjnich | Instagram
-        - icon: fontawesome/brands/500px
-          link: https://500px.com/michjnich
-          name: michjnich | 500px
-        - icon: fontawesome/brands/github
-          link: https://github.com/michjnich
-          name: michjnich | GitHub
-        - icon: fontawesome/brands/gitlab
-          link: https://gitlab.com/michjnich
-          name: michjnich | GitLab
-        - icon: fontawesome/brands/stack-overflow
-          link: https://stackoverflow.com/michjnich
-          name: michjnich | StackOverflow
-        - icon: fontawesome/brands/amazon
-          link: https://www.amazon.com/Michael-J-Nicholson/e/B01C7K1928
-          name: michjnich | Amazon US
-        - icon: fontawesome/brands/amazon
-          link: https://www.amazon.co.uk/Michael-J-Nicholson/e/B01C7K1928
-          name: michjnich | Amazon UK
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/michjnich
+      name: michjnich | LinkedIn
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/michjnich
+      name: michjnich | Twitter
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/michjnich
+      name: michjnich | Instagram
+    - icon: fontawesome/brands/500px
+      link: https://500px.com/michjnich
+      name: michjnich | 500px
+    - icon: fontawesome/brands/github
+      link: https://github.com/michjnich
+      name: michjnich | GitHub
+    - icon: fontawesome/brands/gitlab
+      link: https://gitlab.com/michjnich
+      name: michjnich | GitLab
+    - icon: fontawesome/brands/stack-overflow
+      link: https://stackoverflow.com/michjnich
+      name: michjnich | StackOverflow
+    - icon: fontawesome/brands/amazon
+      link: https://www.amazon.com/Michael-J-Nicholson/e/B01C7K1928
+      name: michjnich | Amazon US
+    - icon: fontawesome/brands/amazon
+      link: https://www.amazon.co.uk/Michael-J-Nicholson/e/B01C7K1928
+      name: michjnich | Amazon UK
