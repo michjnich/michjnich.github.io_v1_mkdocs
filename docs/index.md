@@ -64,7 +64,8 @@ Online publications:
 
 Upcoming publications:
 
-* The Darkness Inside - Q1 2021, British Fantasy Society anthology - "Emerging Horizons"
+* The Darkness Inside - Q1 2022, British Fantasy Society anthology - "Emerging Horizons"
+* Twist - NoSleep Podcast
 
 #### Photography
 I enjoy taking photographs, though am strictly an amateur in this domain. A few of these I put up at [500px](https://www.500px.com/michjnich)
