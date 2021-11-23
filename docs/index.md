@@ -1,7 +1,9 @@
+| Redirected from stddev.tech? |
+|:----------------------------:|
+|The blog hosting on Ghost.org was just a little expensive for me. I am working on self-hosting my blog and am currently looking into the options. Stay tuned!|
 # Michael J. Nicholson
 * [LinkedIn](https://www.linkedin.com/in/michjnich)
 * [Curriculum Vitae](./CV.pdf)
-
 ## Technical
 I cut my teeth programming at the age of 10 with Sinclair BASIC on the ZX81 - 1kB of RAM in a tiny plastic box, where programs needed to be saved and loaded via a bitstream to cassette tape. 
 #### Roles
