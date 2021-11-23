@@ -1,9 +1,9 @@
 # Blog Posts
-
 ???+ "LinkedIn" 
     * [x] [What to do with your legacy monolith](https://www.linkedin.com/pulse/what-do-your-legacy-monolith-michael-nicholson)
     * [x] [Remote working is not a zero-sum game!](https://www.linkedin.com/pulse/remote-working-zero-sum-game-michael-nicholson/)
 
+*Note that the stddev.tech posts are currently unavailable. Once I have a new site up and running I will fix these links and old posts will be restored*
 ???+ "[StdDev.tech](https://www.stddev.tech)"
     * [x] [Django tests with GitLab CI & pytest](https://www.stddev.tech/django-tests-with-gitlab-ci-postgres/)
     * [x] [GitLab coverage badge with pytest](https://www.stddev.tech/gitlab-coverage-badge-with-pytest/)
@@ -21,3 +21,4 @@
     * [x] [Kendall Reviews: Exit, pursued by a Minotaur, OR This article is not for you](http://kendallreviews.com/book-review-michael-j-nicholson-visits-ash-tree-lane-and-offers-a-fascinating-review-of-mark-z-danielewskis-house-of-leaves/)
     * [x] [No Sleep Podcast: Side-effects (S12 Ep24)](https://www.thenosleeppodcast.com/episodes/s12/12x24)
     * [x] [Electric Spec: On Lightning Strikes and Mountain Climbs](https://electricspec.blogspot.com/2018/08/from-author-nicholson.html)
+    * [x] [Electric Spec: Twist](http://www.electricspec.com/Volume13/Issue3/nicholson.html)
