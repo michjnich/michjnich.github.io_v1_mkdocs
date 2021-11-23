@@ -1,6 +1,6 @@
 | Redirected from stddev.tech? |
 |:----------------------------:|
-|The blog hosting on Ghost.org was just a little expensive for me. I am working on self-hosting my blog and am currently looking into the options. Stay tuned!|
+|The blog hosting on Ghost.org was a good service, but just a little expensive for me, especially after the events of 2021/2022. I am working on self-hosting my blog and am currently looking into the options. Stay tuned!|
 # Michael J. Nicholson
 * [LinkedIn](https://www.linkedin.com/in/michjnich)
 * [Curriculum Vitae](./MichaelNicholson-CV.pdf)
