@@ -18,6 +18,7 @@
     * [x] [Complex numbers](https://www.stddev.tech/complex-numbers/)
 
 ???+ "Writing"
+    * [x] [No Sleep Podcast: Room to Grow (S17 Ep4)](https://www.thenosleeppodcast.com/episodes/s17/17x04)
     * [x] [Kendall Reviews: Exit, pursued by a Minotaur, OR This article is not for you](http://kendallreviews.com/book-review-michael-j-nicholson-visits-ash-tree-lane-and-offers-a-fascinating-review-of-mark-z-danielewskis-house-of-leaves/)
     * [x] [No Sleep Podcast: Side-effects (S12 Ep24)](https://www.thenosleeppodcast.com/episodes/s12/12x24)
     * [x] [Electric Spec: On Lightning Strikes and Mountain Climbs](https://electricspec.blogspot.com/2018/08/from-author-nicholson.html)
