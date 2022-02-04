@@ -10,6 +10,9 @@ nav:
   - About Me: index.md
   - Blog: blog.md
   - CV: MichaelNicholson-CV.pdf
+  - Projects:
+    - Calculators demo: http://calcs.michjnich.com
+    - MissionAbort: http://missionabort.michjnich.com
 
   # https://github.com/squidfunk/mkdocs-material
 theme:

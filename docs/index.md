@@ -20,8 +20,8 @@ At some point I have worked with most IT roles, including, but not limited to:
 Since 1997 I have worked primarily in the Telco domain (B/OSS). Outside of that I also have experience with Finance and Pensions. Almost all this work has been on Enterprise level systems. 
 #### Technologies
 ##### Hobby / Learning projects
-* [Vue 3 : "Calculators" learning project](https://michjnich-calcs.netlify.app), ([repository](https://gitlab.com/michjnich/calcs))
-* [Django: "MissionAbort" hobby project](https://missionabort-staging.herokuapp.com) (under construction)
+* [Vue 3 : "Calculators" learning project](https://calcs.michjnich.app), ([repository](https://gitlab.com/michjnich/calcs))
+* [Django: "MissionAbort" hobby project](https://missionabort.michjnich.com) (under construction)
 ##### Desired focus
 * Python
 * Django (or other framework)
@@ -65,11 +65,7 @@ Online publications:
 * [Twist](http://electricspec.com/Volume13/Issue3/nicholson.html) - Electric Spec, Vol. 13, Issue 3
 * [Side Effects](https://www.thenosleeppodcast.com/episodes/s12/12x24) - NoSleep Podcast, Season 12, Episode 24 
 * [Room to Grow](https://www.thenosleeppodcast.com/episodes/s17/17x04) - NoSleep Podcast, Season 17, Episode 4
-
-Upcoming publications:
-
-* The Darkness Inside - Q1 2022, British Fantasy Society anthology - "Emerging Horizons"
-
+* The Darkness Inside - British Fantasy Society anthology - "Emerging Horizons", published Q4 2021, BFS members only
 #### Photography
 I enjoy taking photographs, though am strictly an amateur in this domain. A few of these I put up at [500px](https://www.500px.com/michjnich)
 #### Painting
